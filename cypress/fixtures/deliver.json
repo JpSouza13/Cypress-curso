@@ -1,0 +1,54 @@
+{
+    "signup":{
+    "name": "Naruto Uzumaki",
+    "cpf" : "66666666656",
+    "email": "Naruto@hotmail.com",
+    "whatsapp":"99999999955",
+    "address": {
+        "postalcode": "04534011",
+        "street": "Rua Joaquim Floriano",
+        "number": "1000",
+        "details": "Ap 142",
+        "district": "Itaim Bibi",
+        "city_state": "São Paulo/SP"
+    },
+    "delivery_method" : "Moto",
+    "cnh": "cnh-digital.jpg"
+},
+
+    "cpf_inv":{
+        "name": "Kakashi Hatake",
+    "cpf" : "z66666666aa",
+    "email": "Kakashi@hotmail.com",
+    "whatsapp":"99999999955",
+    "address": {
+        "postalcode": "04534011",
+        "street": "Rua Joaquim Floriano",
+        "number": "1000",
+        "details": "Ap 142",
+        "district": "Itaim Bibi",
+        "city_state": "São Paulo/SP"
+    },
+    "delivery_method" : "Moto",
+    "cnh": "cnh-digital.jpg"
+
+    },
+
+    "email_inv":{
+        "name": "Rurouni Kenshin",
+        "cpf" : "66666666689",
+        "email": "Kenshin.com.br",
+        "whatsapp":"99999999955",
+        "address": {
+            "postalcode": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "1000",
+            "details": "Ap 142",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method" : "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+
+}
